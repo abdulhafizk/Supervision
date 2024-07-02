@@ -1,4 +1,5 @@
 <div align="center">
+
 [![version](https://badge.fury.io/py/supervision.svg)](https://badge.fury.io/py/supervision)
 [![downloads](https://img.shields.io/pypi/dm/supervision)](https://pypistats.org/packages/supervision)
 [![license](https://img.shields.io/pypi/l/supervision)](https://github.com/roboflow/supervision/blob/main/LICENSE.md)
@@ -7,6 +8,7 @@
 [![gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Roboflow/Annotators)
 [![discord](https://img.shields.io/discord/1159501506232451173)](https://discord.gg/GbfgXGJ8Bk)
 [![built-with-material-for-mkdocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 </div>
 
 ## 👋 hello
@@ -16,21 +18,25 @@
 ## 📚 Installation
 
 <h3>Install with pip</h3>
+
 ```bash
 pip install supervision
 ```
 
 <h3>Install with conda</h3>
+
 ```bash
 conda install -c conda-forge supervision
 ```
 
 <h3>Install with poetry</h3>
+
 ```bash
 poetry add supervision
 ```
 
 <h3>Install with source</h3>
+
 ```bash
 pip install -e .
 ```
