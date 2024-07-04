@@ -248,21 +248,9 @@ https://github.com/roboflow/supervision/assets/26109316/3ac6982f-4943-4108-9b7f-
 
 Visit our [documentation](https://roboflow.github.io/supervision) page to learn how supervision can help you build computer vision applications faster and more reliably.
 
-## 🏆 contribution
-
-We love your input! Please see our [contributing guide](https://github.com/roboflow/supervision/blob/main/CONTRIBUTING.md) to get started. Thank you 🙏 to all our contributors!
-
-<p align="center">
-    <a href="https://github.com/roboflow/supervision/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=roboflow/supervision" />
-    </a>
-</p>
-
-<br>
-
 <div align="center">
 
-  <div align="center">
+  <!-- <div align="center">
       <a href="https://youtube.com/roboflow">
           <img
             src="https://media.roboflow.com/notebooks/template/icons/purple/youtube.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
@@ -305,4 +293,4 @@ We love your input! Please see our [contributing guide](https://github.com/robof
       </a>
       </a>
   </div>
-</div>
+</div> -->
